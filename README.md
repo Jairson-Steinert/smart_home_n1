@@ -49,4 +49,7 @@ O código-fonte do Flutter é modularizado em arquivos separados para cada aspec
 - Assegure-se de que o dispositivo ou emulador esteja rodando uma versão compatível com a versão do Flutter usada.
 - Consulte a [documentação oficial do Flutter](https://docs.flutter.dev) para soluções de problemas.
 
-![img.png](img.png)
+### Imagem do mockups. 
+
+![img_1.png](img_1.png)
+
